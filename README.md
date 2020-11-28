@@ -3,12 +3,17 @@
 This app uses Location Service, Google APIs and Picasso Library to search and display a list of local government informations. On start the app will use location service to determine the user's location.
 
 - App will acquire and display an interactive list of political officials that represent the current location (or a specified location) at each level of government.
+
 - Android location services will be used to determine the user’s location.
-- The Google Civic Information API will be used to acquire the government official data (via REST service
-and JSON results).
+
+- The Google Civic Information API will be used to acquire the government official data (via REST service and JSON results).
+
 - Clicking on an official’s list entry opens a detailed view of that individual government representative.
+
 - Clicking on the photo of an official will display a Photo Activity, showing a larger version of the photo.
+
 - An “About” activity will show application information (Author, Copyright data & Version)
+
 
 ---
 ### The following screenshot shows the process of clicking on a official and landscape view
