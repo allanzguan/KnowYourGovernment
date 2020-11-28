@@ -11,8 +11,9 @@ and JSON results).
 - An “About” activity will show application information (Author, Copyright data & Version)
 
 ---
-### The following screenshot shows the process of clicking on a official
+### The following screenshot shows the process of clicking on a official and landscape view
 <img src="https://github.com/allanzguan/KnowYourGovernment/blob/main/screenshot/Adevice-2020-11-28-011156.png" height="350">
+<img src="https://github.com/allanzguan/KnowYourGovernment/blob/main/screenshot/device-2020-11-28-013557.png" height="200">
 
 ---
 ### Clicking on the offical;s party logo will bring user to the party's website
